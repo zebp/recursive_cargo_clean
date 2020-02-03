@@ -1,5 +1,5 @@
 # Recursive Cargo Clean
-Recurvsively clean your cargo projects.
+Recursively clean your cargo projects.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 name: recursive_cargo_clean
 version: "1.0"
 author: Zeb Piasecki <zebpiasecki@gmail.com>
-about: Recurvsively clean your cargo projects
+about: Recursively clean your cargo projects
 args:
   - root:
       help: The root directory to recursively find projects in
